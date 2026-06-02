@@ -1,9 +1,1 @@
-PORT=3000
-DB_HOST=localhost
-DB_PORT=5432
-DB_USER=postgres
-DB_PASS=admin
-DB_NAME=tpintegrador
-DB_LOGGING=true
-ENABLE_SWAGGER=true
-JWT_SECRET=4576756rfhery
+
